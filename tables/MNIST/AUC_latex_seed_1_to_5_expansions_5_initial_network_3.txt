@@ -1,0 +1,22 @@
+\begin{tabular}{lllllll}
+\toprule
+Erweiterung & 0 & 1 & 2 & 3 & 4 & 5 \\
+Strategie &  &  &  &  &  &  \\
+\midrule
+random\_edges & 0.596 & 0.995 & 0.997 & 0.997 & 0.997 & 0.998 \\
+random\_neurons & 0.596 & 0.989 & 0.993 & 0.995 & 0.995 & 0.997 \\
+constant\_edges & 0.596 & 0.987 & 0.992 & 0.994 & 0.995 & 0.997 \\
+constant\_neurons & 0.596 & 0.983 & 0.994 & 0.995 & 0.996 & 0.997 \\
+regularized\_edges & 0.596 & 0.994 & 0.995 & 0.997 & 0.996 & 0.997 \\
+regularized\_neurons & 0.596 & 0.962 & 0.962 & 0.963 & 0.964 & 0.997 \\
+initial\_edges & 0.596 & 0.995 & 0.996 & 0.997 & 0.998 & 0.998 \\
+initial\_neurons & 0.596 & 0.964 & 0.956 & 0.961 & 0.961 & 0.997 \\
+warmstarted\_edges & 0.596 & 0.996 & 0.997 & 0.997 & 0.998 & 0.998 \\
+warmstarted\_neurons & 0.596 & 0.960 & 0.961 & 0.970 & 0.970 & 0.997 \\
+gradient\_based\_edges & 0.596 & 0.869 & 0.991 & 0.994 & 0.995 & 0.997 \\
+gradient\_based\_neurons & 0.596 & 0.792 & 0.934 & 0.958 & 0.972 & 0.996 \\
+layer\_stat\_edges & 0.596 & 0.993 & 0.994 & 0.995 & 0.996 & 0.998 \\
+layer\_stat\_neurons & 0.596 & 0.793 & 0.914 & 0.930 & 0.904 & 0.997 \\
+\bottomrule
+\end{tabular}
+

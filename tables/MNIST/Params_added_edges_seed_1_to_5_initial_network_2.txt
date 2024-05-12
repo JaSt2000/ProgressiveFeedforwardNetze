@@ -1,0 +1,16 @@
+\begin{tabular}{lllllllllllll}
+\toprule
+Expansion & \multicolumn{6}{r}{0} & \multicolumn{6}{r}{1} \\
+Layer & 1 & 2 & 3 & 4 & 5 & 6 & 1 & 2 & 3 & 4 & 5 & 6 \\
+Strategie &  &  &  &  &  &  &  &  &  &  &  &  \\
+\midrule
+random\_edges & 785 & 31 & 31 & 31 & 31 & 310 & 4575 & 170 & 179 & 172 & 174 & 0 \\
+constant\_edges & 785 & 31 & 31 & 31 & 31 & 310 & 4553 & 179 & 179 & 179 & 179 & 0 \\
+regularized\_edges & 785 & 31 & 31 & 31 & 31 & 310 & 4201 & 269 & 267 & 268 & 264 & 0 \\
+initial\_edges & 785 & 31 & 31 & 31 & 31 & 310 & 2300 & 748 & 742 & 741 & 739 & 0 \\
+warmstarted\_edges & 785 & 31 & 31 & 31 & 31 & 310 & 2340 & 734 & 733 & 735 & 729 & 0 \\
+gradient\_based\_edges & 785 & 31 & 31 & 31 & 31 & 310 & 4193 & 0 & 0 & 179 & 899 & 0 \\
+layer\_stat\_edges & 785 & 31 & 31 & 31 & 31 & 310 & 1676 & 899 & 899 & 899 & 899 & 0 \\
+\bottomrule
+\end{tabular}
+

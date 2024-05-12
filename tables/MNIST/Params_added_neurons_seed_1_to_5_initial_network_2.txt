@@ -1,0 +1,16 @@
+\begin{tabular}{lllllllllllll}
+\toprule
+Expansion & \multicolumn{6}{r}{0} & \multicolumn{6}{r}{1} \\
+Layer & 1 & 2 & 3 & 4 & 5 & 6 & 1 & 2 & 3 & 4 & 5 & 6 \\
+Strategie &  &  &  &  &  &  &  &  &  &  &  &  \\
+\midrule
+random\_neurons & 785 & 31 & 31 & 31 & 31 & 310 & 4396 & 148 & 173 & 179 & 223 & 0 \\
+constant\_neurons & 785 & 31 & 31 & 31 & 31 & 310 & 3925 & 155 & 155 & 155 & 155 & 0 \\
+regularized\_neurons & 785 & 31 & 31 & 31 & 31 & 310 & 0 & 217 & 229 & 229 & 223 & 0 \\
+initial\_neurons & 785 & 31 & 31 & 31 & 31 & 310 & 0 & 272 & 161 & 248 & 217 & 0 \\
+warmstarted\_neurons & 785 & 31 & 31 & 31 & 31 & 310 & 0 & 235 & 260 & 204 & 198 & 0 \\
+gradient\_based\_neurons & 785 & 31 & 31 & 31 & 31 & 310 & 0 & 0 & 0 & 0 & 899 & 0 \\
+layer\_stat\_neurons & 785 & 31 & 31 & 31 & 31 & 310 & 0 & 0 & 179 & 297 & 421 & 0 \\
+\bottomrule
+\end{tabular}
+
